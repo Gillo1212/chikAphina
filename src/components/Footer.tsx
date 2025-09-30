@@ -78,7 +78,7 @@ const Footer: React.FC = () => {
                 <MapPin className="w-4 h-4 sm:w-5 sm:h-5 text-gold-500 mr-2 sm:mr-3 mt-1 flex-shrink-0" />
                 <span className="font-inter text-xs sm:text-sm text-gray-300 leading-relaxed">
                   123 Avenue de la Mode<br />
-                  75001 Paris, France
+                  75001 Ouakam, Dakar
                 </span>
               </div>
             </div>
